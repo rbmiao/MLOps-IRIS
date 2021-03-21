@@ -1,3 +1,5 @@
+
+
 # Introduction 
 Fully Automated end-to-end Training and Deployment of IRIS Classifer using Azure MLOps
 # Prerequisites
@@ -17,4 +19,6 @@ Fully Automated end-to-end Training and Deployment of IRIS Classifer using Azure
 
 Build and Deploy screenshots can be found in screenshots folder.
 
-
+Reference:
+MLOps with Azure - Hands on Session
+https://www.youtube.com/watch?v=pLd7xF0z5Zs
